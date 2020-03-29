@@ -11,4 +11,4 @@ void draw(){
 }
 ```
 # P5.js schetch example
-<iframe src="{{ base.url | prepend: site.url }}/Class1.html" width="600px" height="400px"> </iframe>
+<iframe src="https://visual-computing-2020-i.github.io/Visual-Computing-2020-1.github.io/Class1.html" width="600px" height="400px"> </iframe>
